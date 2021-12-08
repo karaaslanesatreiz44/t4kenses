@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2"
+  },
+  "engines": {
+    "node": "14.x.x"
+  },
+  "license": "MIT"
+}
